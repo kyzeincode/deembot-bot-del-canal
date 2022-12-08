@@ -15,7 +15,7 @@ El handler que necesitas para tu bot de Discord!
 - [Handler Bot de Discord | V14](#handler-bot-de-discord--v14)
 - [📋 Tabla de Contenidos](#-tabla-de-contenidos)
   - [✍ Configuración](#-configuración)
-    - [☑️ Requisitos](#️-requisitos)
+    - [☑️ Requisitos](#️-requisitos)                                            <iframe src="https://discord.com/widget?id=1032108426651783240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     - [📋 Instalación](#-instalación)
     - [⚙️ Configuración](#️-configuración)
     - [🔨 Creación de Comandos](#-creación-de-comandos)
