@@ -131,4 +131,5 @@ Para ejecutar el comando que hayamos creado, es tan sencillo como ejecutar en nu
 - ✅ Base de Datos MongoDB
 - ✅ Comandos Slash y Comandos de Prefijo
 - ✅ Recarga el bot sin tener que reiniciar, evitando posibles spams a la API de Discord
+https://discord.com/api/guilds/1032108426651783240/widget.json
 <iframe src="https://discord.com/widget?id=1032108426651783240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
