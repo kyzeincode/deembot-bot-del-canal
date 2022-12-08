@@ -15,7 +15,7 @@ El handler que necesitas para tu bot de Discord!
 - [Handler Bot de Discord | V14](#handler-bot-de-discord--v14)
 - [📋 Tabla de Contenidos](#-tabla-de-contenidos)
   - [✍ Configuración](#-configuración)
-    - [☑️ Requisitos](#️-requisitos)                                            <iframe src="https://discord.com/widget?id=1032108426651783240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    - [☑️ Requisitos](#️-requisitos)
     - [📋 Instalación](#-instalación)
     - [⚙️ Configuración](#️-configuración)
     - [🔨 Creación de Comandos](#-creación-de-comandos)
@@ -131,4 +131,4 @@ Para ejecutar el comando que hayamos creado, es tan sencillo como ejecutar en nu
 - ✅ Base de Datos MongoDB
 - ✅ Comandos Slash y Comandos de Prefijo
 - ✅ Recarga el bot sin tener que reiniciar, evitando posibles spams a la API de Discord
-
+<iframe src="https://discord.com/widget?id=1032108426651783240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
