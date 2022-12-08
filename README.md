@@ -23,7 +23,7 @@ El handler que necesitas para tu bot de Discord!
       - [(/) Comandos Slash](#-comandos-slash)
   - [💪 Características](#-características)
   - [💛 Contribuciones](#-contribuciones)
-  - [🔰 Soporte](#-soporte)
+  - [🔰 Soporte](https://www.discord.gg/UBpQKY3XqG)
 
 ## ✍ Configuración
 ### ☑️ Requisitos
